@@ -1,0 +1,11 @@
+---
+title: "Education and Experience"
+---
+
+I graduated with honors from the University of Michigan in 2020 majoring in neuroscience. After earning my B.S. degree, I spent the next year abroad working with English teachers in elementary and middle schools to improve English literacy and comprehension. I returned to the US in 2021, where I proceeded to work as a lab manager in the Yin lab at the University of Michigan. After two years, I started a PhD program at Case Western Reserve University. I am currently a second year student working in Dr. Qi's lab. 
+
+
+Thanks for exploring my website!
+
+::: {layout-ncol=2}
+
