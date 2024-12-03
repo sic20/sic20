@@ -1,0 +1,20 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/my_image.jpg"
+  links:
+      - icon: facebook
+        href: https://www.facebook.com/sarah.cooke.3726
+      - icon: envelope
+        aria-label: email
+        href: "mailto:sic20@case.edu"   
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+My name is Sarah Cooke, and I am a second year neuroscience PhD student studying at Case Western Reserve University in Dr. Xin Qi's lab. My research focuses on the role of mitochondrial dysfunction in amyotrophic lateral sclerosis (ALS). Outside of lab, I enjoy spending time with my sister and my chaotic but loving orange cat Regulus. 
+
